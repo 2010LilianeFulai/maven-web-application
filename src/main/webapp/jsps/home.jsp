@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project 001 May 12 2025.</h1>
+<h1 align="center">Welcome to Tesla Web application Project 025.</h1>
 <h1 align="center">Software SAS Solutions (LSS)  is developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaire IT professionals across the nations of the World.
 	Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
